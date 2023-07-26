@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This project is a basic clone of a popular social media website bought by a man who changed its name. He dumb.
 
 ## Getting Started
 
